@@ -1,41 +1,67 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi!%20I'm%20Matias%20👋&fontSize=30&fontColor=fff)
 
-## 👨‍💻 About Me
-- 🌍 From Buenos Aires, Argentina 🇦🇷  
-- 👀 Interested in **scraping, automation and web development**  
-- 🌱 Currently learning **Python** and **Cybersecurity**  
-- 💞️ Looking to collaborate on projects related to **scraping & automation**  
-- 🎯 Goal: build tools that make data more transparent  
+### Full Stack Developer · Backend, automation & AI · Buenos Aires, Argentina 🇦🇷
+
+I build products end to end: APIs and services, web and mobile apps, scraping pipelines, AI agents and the infrastructure that keeps them running in production.
+
+- 💼 **Backend Developer** at **Wortise** (2026 – present): services, APIs, scheduled jobs and AI agent workflows (RAG, tool calling, skills).
+- 💼 **Full Stack Developer** at **Netsocks.io** (2024 – present): internal tools, scraping systems, Android/iOS data extraction and Linux/Coolify infrastructure.
+- 🤖 Building multi-step agentic workflows with **Mastra** and the **AI SDK**, plus WhatsApp and social media chatbots with OpenAI, Gemini and Vertex AI.
+- 🕷️ Data extraction at scale with **Playwright**, **Crawlee** and **Puppeteer**, structured into MongoDB and Elasticsearch.
+- 🎓 Computer Engineering at UTN FRA · Full Stack track at Coderhouse.
+
+🌐 **Portfolio:** [matiasminoni.github.io/Portafolio](https://matiasminoni.github.io/Portafolio/)
 
 ---
 
 ## 🔧 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge&logo=selenium&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-0078D6?style=for-the-badge&logo=robots&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cyber%20Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
+
+**Languages & backend**
+
+[![Backend](https://skillicons.dev/icons?i=ts,js,py,go,nodejs,express,flask,laravel)](https://skillicons.dev)
+
+**Frontend & mobile**
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,vite,tailwind,astro)](https://skillicons.dev)
+
+**Data & queues**
+
+[![Data](https://skillicons.dev/icons?i=postgres,mongodb,prisma,elasticsearch,redis,rabbitmq)](https://skillicons.dev)
+
+**Infrastructure & platforms**
+
+[![Infra](https://skillicons.dev/icons?i=linux,docker,git,github,wordpress)](https://skillicons.dev)
+
+**AI & scraping:** Mastra · AI SDK · OpenAI · Gemini · Vertex AI · RAG · Tool calling · Playwright · Crawlee · Puppeteer · Cheerio · BeautifulSoup · Androguard
+
+**Commerce:** Shopify · Tiendanube · WooCommerce · Medusa
 
 ---
 
-## 🚀 Projects
-- [**adtransparency_mapper**](https://github.com/MatiasMinoni/adtransparency_mapper) → Tools to scrape and analyze ad data  
-- [**linkedin-matcher**](https://github.com/MatiasMinoni/linkedin-matcher) → Automation for LinkedIn profile matching  
+## 🚀 Live work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Argy Solutions](https://argysolutions.com) | Hosting and social media messaging automation | Next.js |
+| [Tecbox](https://tecbox.com.ar) | E-commerce built end to end | Tiendanube |
+| [Otao](https://otao.com.ar) | E-commerce built end to end | Shopify |
+| [LR Electricidad Integral](https://lrelectricidadintegral.com.ar) | E-commerce built end to end | WordPress · WooCommerce |
+
+Most of my day-to-day work lives in private repositories. The older public repos here are from my Coderhouse years.
 
 ---
 
-## 📊 GitHub Stats
-![Matias' GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasMinoni&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMinoni&layout=compact&theme=radical)
+## 📊 GitHub activity
+
+![GitHub streak](https://streak-stats.demolab.com?user=MatiasMinoni&theme=radical&hide_border=true)
 
 ---
 
-## 📫 How to reach me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matiminoni)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matiminoni)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/541122547796)
+## 📫 Contact
 
----
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://matiasminoni.github.io/Portafolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-alberto-minoni-b1b750183/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiminoni1@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491122547796)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
